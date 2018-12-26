@@ -6,3 +6,4 @@
 |-|-|
 |Graph of exponential function.ipynb|方眼紙スタイルの指数関数グラフです|
 |Random mosaic tile generator.ipynb|モザイクタイルをランダムに生成します|
+|2D graph gif animation.ipynb|外部ソフトウェアなしでグラフのGIFアニメーションを作成・保存します|
